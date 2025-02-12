@@ -60,20 +60,21 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_Session Connected By Wasi Tech_*
-*_Made With 🤍_*
+*QUEEN_KYLIE-V1 CONNECTED 👸❤️
+`Made by kylieXcyleetech`
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN WASI MD』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+║ *『 👸❤️ YOU'VE CHOSEN KYLIE ❤️👸 』*
+║ _Send Your SESSION_ID to Your Deployer._
 ╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1
-║❒ *Owner:* _https://wa.me/message/THZ3I25BYZM2E1_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD_
-║❒ *WaGroup:* _https://chat.whatsapp.com/FF6YuOZTAVB6Lu65cnY5BN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j_
-║❒ *Plugins:* _https://github.com/Itxxwasi 
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ *Youtube:* https://www.youtube.com/@cyleetheetechguy
+║❒ *Owner:* +27615045572, +27835039725
+║❒ *Repo:* _https://github.com/sircylee/QUEEN_KYLIE-V1
+║❒ *WhatsAppGroup:* _https://chat.whatsapp.com/DfzejIdGQGXB8Z2dm4Oj0E
+║❒ *WhatsAppChannel:* _https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07
+║❒ *Plugins:* speak to owner/developer 
 ╚════════════════════════╝
 _____________________________________
 	
